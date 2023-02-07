@@ -1,3 +1,5 @@
-# ecs_cluster
+# microservices infra
 
-Terraform module for creating ecs infrastructure that will be shared by many 
+Terraform module for creating infrastructure that will be shared by many microservices
+
+Currently on ECS
